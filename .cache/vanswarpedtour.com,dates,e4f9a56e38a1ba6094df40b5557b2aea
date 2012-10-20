@@ -1,0 +1,479 @@
+status: 200
+content-length: 36600
+content-location: http://vanswarpedtour.com/dates
+x-powered-by: PHP/5.3.10-1ubuntu3.4
+server: nginx/1.0.10
+-content-encoding: gzip
+date: Sat, 20 Oct 2012 03:38:41 GMT
+content-type: text/html
+
+<!doctype html>
+<!--[if lt IE 7 ]> <html class="no-js ie6 oad-"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7 oad-"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8 oad-"> <![endif]-->
+<!--[if gte IE 9 ]>    <html class="no-js ie9 oad-"> <![endif]-->
+<!--[!(IE)]><!--> <html class="no-js oad-"> <!--<![endif]-->
+<head>
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>Dates</title>    <meta name="description" content="2013 Vans Warped Tour / Date And Band Details Coming This Fall" />
+    <meta name="author" content="Loudbase" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="Jl410lMU3e_askB2hnZYLICtSBRQKruyrSrXDiAp45c" />
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="http://feeds.feedburner.com/vanswarpedtour/MzRJ" />
+
+    <link rel="icon" type="image/png" href="http://ldbs.s3.amazonaws.com/sites/vwt/images/fatvicon.png">
+    <link rel="apple-touch-icon" href="http://ldbs.s3.amazonaws.com/sites/vwt/images/apple-touch-icon.png" />
+
+    <link rel="stylesheet" href="http://ldbs.s3.amazonaws.com/global/css/bootstrap/jquery-ui-1.8.16.custom-lb.css" />
+    <link rel="stylesheet" href="http://ldbs.s3.amazonaws.com/global/css/base.min.css" />
+    <link rel="stylesheet" href="/sites/vwt/css/fonts.min.css" />
+    <link rel="stylesheet" href="http://ldbs.s3.amazonaws.com/sites/vwt/css/offseason.min.css" />
+
+    <script src="http://ajax.cdnjs.com/ajax/libs/script.js/1.3/script.min.js"></script>
+    <script src="http://ldbs.s3.amazonaws.com/global/js/modernizr-2.0.6.js"></script>
+    <script>
+        $script.ready('jquery', function() {
+
+            $script('http://ldbs.s3.amazonaws.com/global/js/loudbase.js', 'lb');
+            // $script('http://ldbs.s3.amazonaws.com/sites/vwt/js/site.js', 'lbsite');
+
+            $script('http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.11/jquery-ui.min.js', 'jqui');
+            $script('http://ldbs.s3.amazonaws.com/global/js/jquery/jquery.bigtarget.1.0.1.min.js', 'bigtarget');
+            $script('http://ldbs.s3.amazonaws.com/global/js/jquery/jquery.fancybox.min.js', 'fancybox');
+            $script('http://ldbs.s3.amazonaws.com/global/js/jquery/jquery.cutetime.min.js', 'cutetime');
+            $script('http://ldbs.s3.amazonaws.com/global/js/jquery/jquery.validate.min.js', 'valjs');
+            $script('http://ldbs.s3.amazonaws.com/global/js/jquery/jquery.embedly.min.js');
+            $script('http://ldbs.s3.amazonaws.com/global/js/jquery/chosen.jquery.min.js', 'chzn');
+
+
+            $script('http://ldbs.s3.amazonaws.com/global/js/bootstrap/bootstrap-tooltip.js', 'tooltip');
+            $script('http://ldbs.s3.amazonaws.com/global/js/bootstrap/bootstrap-dropdown.js', 'dropdown');
+            $script('http://ldbs.s3.amazonaws.com/global/js/bootstrap/bootstrap-tab.js', 'tab');
+            $script('http://ldbs.s3.amazonaws.com/global/js/bootstrap/bootstrap-modal.js', 'tab');
+
+            $script('http://ldbs.s3.amazonaws.com/global/js/jquery/jquery.fitvids.min.js', 'fitvid');
+
+
+            $script('http://ldbs.s3.amazonaws.com/global/js/date.js', 'datejs');
+
+<!--            $script('--><!--js/jquery/autoresize.jquery.min.js', 'autoresize');-->
+            $script('http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js', 'swf');
+        });
+        $script('http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js', 'jquery');
+
+    </script>
+
+<script type='text/javascript'>
+(function() {
+var useSSL = 'https:' == document.location.protocol;
+var src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+})();
+</script>
+
+<script type='text/javascript'>
+//googletag.cmd.push(function() {
+if (typeof googletag !== 'undefined') {
+googletag.defineSlot('/18007093/VWT_Bigtop_460x200', [460, 200], 'div-gpt-ad-1335806631905-0').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Homepage_300x100_A', [300, 100], 'div-gpt-ad-1334879817877-1').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Homepage_300x100_B', [300, 100], 'div-gpt-ad-1334879817877-2').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Homepage_300x250_A', [300, 250], 'div-gpt-ad-1334879817877-3').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Homepage_300x250_B', [300, 250], 'div-gpt-ad-1334879817877-4').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Homepage_Footer_728x90', [728, 90], 'div-gpt-ad-1334879817877-5').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Ros_300x100_A', [300, 100], 'div-gpt-ad-1334879817877-6').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Ros_300x100_B', [300, 100], 'div-gpt-ad-1334879817877-7').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Ros_300x250_A', [300, 250], 'div-gpt-ad-1334879817877-8').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Ros_300x250_B', [300, 250], 'div-gpt-ad-1334879817877-9').addService(googletag.pubads());
+googletag.defineSlot('/18007093/VWT_Ros_Footer_728x90', [728, 90], 'div-gpt-ad-1334879817877-10').addService(googletag.pubads());
+googletag.pubads().enableSyncRendering();
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+}
+//});
+</script>
+
+<script>
+  (function() {
+    var cx = '018125446901188618461:y3aozecabni';
+    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+
+</head>
+
+<body id="bd-tour-detail" class="" lang="en">
+
+<div id="user-bar" class="mb1">
+    <div class="fr"><a href="/login?r=/dates" class="btn" title="Log In">Log In</a><a href="/register" class="btn">Register</a> </div><strong>Loudbase</strong></div>
+
+
+<div id="container">
+    <header id="header">
+        <div id="nav-flags">
+            <a href="http://vanswarpedtouruk.com/"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/_os/United-Kingdom-flag-32.png" border="0" id="flag-uk" /></a>
+            <a href="/canada"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/_os/Canada-Flag-32.png" border="0" id="flag-canada" /></a>
+        </div>
+
+        <h1 id="logo"><a href="/">Vans Warped Tour</a></h1>
+    </header>
+
+    <div id="main">
+        <div class="container_12" id="nav-container">
+            <nav id="nav">
+                <ul class="nav nav-pills" id="main-nav">
+    <li id="nav-home"><a id="menu-nav-home" href="/">Home</a></li>
+    <li id="nav-media"><a id="menu-media" href="/video">Video</a></li>
+    <li id="nav-bands"><a id="menu-bands" href="/bands">Bands</a></li>
+    <li id="nav-dates"><a id="menu-dates" href="/dates">Dates</a></li>
+    <li id="nav-media"><a id="menu-media" href="/photos">Photos</a></li>
+    <li id="nav-boards"><a id="menu-boards" href="/boards">Boards</a></li>
+    <li id="nav-scene"><a id="menu-scene" href="/scene">The Scene</a></li>
+    <li id="nav-mobile"><a id="menu-mobile" href="/mobile">Mobile</a></li>
+    <li id="nav-faq"><a id="menu-faq" href="/faq">FAQ</a></li>
+    <li id="nav-store"><a id="menu-store" href="http://vanswarpedtour.cinderblock.com/">Store</a></li>
+    <li id="nav-sponsors"><a id="menu-sponsors" href="/sponsors">Sponsors</a></li>
+    <li id="nav-np"><a id="menu-nonprofits" href="/non-profits">Non Profits</a></li>
+</ul>            </nav>
+        </div>
+
+
+        
+        <div id="content-wrap">
+
+
+                        <div id="content">
+<div class="container_12" id="promo-panel-container">
+    <div class="grid_12">
+        <div class="bx1-container">
+            <div class="bx1">
+                <div class="bx1-inner cf" id="promo-panels">
+                    
+<div class="promo-panel">
+    <a href="http://noroomforrockstars.com/buy/"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/pp/nrfr_220x70-dvd.gif" width="220" height="70" border="0" /></a></div>
+
+<div class="promo-panel">
+    <a href="http://vanswarpedtour.com/m/"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/pp/on-the-go.jpg" width="220" height="70" border="0" /></a></div>
+
+<div class="promo-panel">
+    <a href="https://www.surveymonkey.com/s/warped2013"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/pp/survey.jpg" width="220" height="70" border="0" /></a></div>
+
+<div class="promo-panel last">
+    <a href="http://vanswarpedtouruk.com/"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/pp/pp-uk.jpg" width="220" height="70" border="0" /></a></div>                </div>
+            </div>
+        </div>
+    </div>
+</div><div class="container_12">
+    <div class="grid_8">
+                <div class="bx3-container " id="featured-event">
+			<div class="section-head-container">
+                <h3 class="section-head">
+                    <a href="/event/id/38424">Next Show<span></span></a>			    </h3>
+            </div>
+			<div class="bx3">
+				<div class="bx3-inner cf">
+                    <div class="fl mr"><a href="/event/id/38424" class="thumbnail"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/venues/696.jpg" border="0" /></a></div><h2><a href="/event/id/38424">Saturday, November 10, 2012</a></h2><h3>Alexandra Palace</h3><address>Alexandra Palace Way London<br />London, UK N22 7AY</address>				</div>
+			</div>
+		</div>
+		
+		        <div class="bx2-container">
+            <div class="section-head-container"><h3 class="section-head">Vans Warped Tour 2012 Tour Dates<span></span></h3></div>
+            <div class="bx2">
+                <div class="bx2-inner">
+                    <table border="0" class="table table-striped events">
+                        <tbody>
+                        <tr class="event-row past "><td class="date"><a href="/event/id/38294" title="1339819200" class="btn">Jun 16 2012</a></td><td class="location"><a href="/event/id/38294">Utah State Fairpark</a> <br /> Salt Lake City, UT<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38295" title="1339905600" class="btn">Jun 17 2012</a></td><td class="location"><a href="/event/id/38295">Sports Authority Field at Mile High</a> <br /> Denver, CO<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38297" title="1340164800" class="btn">Jun 20 2012</a></td><td class="location"><a href="/event/id/38297">Luxor Hotel Parking Lot</a> <br /> Las Vegas, NV<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38298" title="1340251200" class="btn">Jun 21 2012</a></td><td class="location"><a href="/event/id/38298">Orange County Great Park</a> <br /> Irvine, CA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38299" title="1340337600" class="btn">Jun 22 2012</a></td><td class="location"><a href="/event/id/38299">Pomona Fairplex</a> <br /> Pomona, CA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38300" title="1340424000" class="btn">Jun 23 2012</a></td><td class="location"><a href="/event/id/38300">AT&T Park Lot A</a> <br /> San Francisco, CA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38301" title="1340510400" class="btn">Jun 24 2012</a></td><td class="location"><a href="/event/id/38301">Ventura County Fair</a> <br /> Ventura, CA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38303" title="1340769600" class="btn">Jun 27 2012</a></td><td class="location"><a href="/event/id/38303">Cricket Wireless Amphitheatre</a> <br /> Chula Vista, CA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38296" title="1340856000" class="btn">Jun 28 2012</a></td><td class="location"><a href="/event/id/38296">Camelback Ranch</a> <br /> Glendale, AZ<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38304" title="1340942400" class="btn">Jun 29 2012</a></td><td class="location"><a href="/event/id/38304">NMSU Practice Field</a> <br /> Las Cruces, NM<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38305" title="1341028800" class="btn">Jun 30 2012</a></td><td class="location"><a href="/event/id/38305">AT&T Center</a> <br /> San Antonio, TX<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38306" title="1341115200" class="btn">Jul 01 2012</a></td><td class="location"><a href="/event/id/38306">Reliant Center Parking Lot</a> <br /> Houston, TX<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38308" title="1341288000" class="btn">Jul 03 2012</a></td><td class="location"><a href="/event/id/38308">Gexa Energy Pavilion</a> <br /> Dallas, TX<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38309" title="1341460800" class="btn">Jul 05 2012</a></td><td class="location"><a href="/event/id/38309">Verizon Wireless Amphitheater</a> <br /> Maryland Heights, MO<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38310" title="1341547200" class="btn">Jul 06 2012</a></td><td class="location"><a href="/event/id/38310">The Palace of Auburn Hills</a> <br /> Auburn Hills, MI<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38311" title="1341633600" class="btn">Jul 07 2012</a></td><td class="location"><a href="/event/id/38311">First Midwest Bank Ampitheatre</a> <br /> Tinley Park, IL<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38312" title="1341720000" class="btn">Jul 08 2012</a></td><td class="location"><a href="/event/id/38312">Canterbury Park</a> <br /> Shakopee, MN<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38313" title="1341806400" class="btn">Jul 09 2012</a></td><td class="location"><a href="/event/id/38313">Sandstone Amphitheatre</a> <br /> Bonner Springs, KS<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38314" title="1341892800" class="btn">Jul 10 2012</a></td><td class="location"><a href="/event/id/38314">Klipsch Music Center</a> <br /> Noblesville, IN<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38315" title="1341979200" class="btn">Jul 11 2012</a></td><td class="location"><a href="/event/id/38315">Blossom Music Center</a> <br /> Cuyahoga Falls, OH<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38316" title="1342065600" class="btn">Jul 12 2012</a></td><td class="location"><a href="/event/id/38316">First Niagara Pavilion</a> <br /> Burgettstown, PA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38325" title="1342152000" class="btn">Jul 13 2012</a></td><td class="location"><a href="/event/id/38325">PNC Bank Arts Center</a> <br /> Holmdel, NJ<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38318" title="1342238400" class="btn">Jul 14 2012</a></td><td class="location"><a href="/event/id/38318">Parterre Île Notre Dame at Parc Jean-Drapeau</a> <br /> Montreal, QC CA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38317" title="1342324800" class="btn">Jul 15 2012</a></td><td class="location"><a href="/event/id/38317">The Flats At Molson Canadian Amphitheatre</a> <br /> Toronto, ON CA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38320" title="1342497600" class="btn">Jul 17 2012</a></td><td class="location"><a href="/event/id/38320">Darien Lake Performing Arts Center</a> <br /> Darien Center, NY<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38321" title="1342584000" class="btn">Jul 18 2012</a></td><td class="location"><a href="/event/id/38321">Toyota Pavilion</a> <br /> Scranton, PA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38322" title="1342670400" class="btn">Jul 19 2012</a></td><td class="location"><a href="/event/id/38322">Comcast Center</a> <br /> Mansfield, MA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38323" title="1342756800" class="btn">Jul 20 2012</a></td><td class="location"><a href="/event/id/38323">Susquehanna Bank Center</a> <br /> Camden, NJ<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38324" title="1342843200" class="btn">Jul 21 2012</a></td><td class="location"><a href="/event/id/38324">Nassau Veterans Memorial Coliseum</a> <br /> Uniondale, NY<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38319" title="1342929600" class="btn">Jul 22 2012</a></td><td class="location"><a href="/event/id/38319">The Comcast Theatre</a> <br /> Hartford, CT<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38326" title="1343102400" class="btn">Jul 24 2012</a></td><td class="location"><a href="/event/id/38326">Merriweather Post Pavilion</a> <br /> Columbia, MD<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38327" title="1343188800" class="btn">Jul 25 2012</a></td><td class="location"><a href="/event/id/38327">Farm Bureau Live At Virginia Beach</a> <br /> Virginia Beach, VA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38328" title="1343275200" class="btn">Jul 26 2012</a></td><td class="location"><a href="/event/id/38328">Aaron's Amphitheater at Lakewood</a> <br /> Atlanta, GA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38329" title="1343361600" class="btn">Jul 27 2012</a></td><td class="location"><a href="/event/id/38329">Central FL Fairgrounds</a> <br /> Orlando, FL<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38330" title="1343448000" class="btn">Jul 28 2012</a></td><td class="location"><a href="/event/id/38330">Cruzan Ampitheatre</a> <br /> West Palm Beach, FL<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38331" title="1343534400" class="btn">Jul 29 2012</a></td><td class="location"><a href="/event/id/38331">Vinoy Park</a> <br /> St.Petersburg, FL<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38332" title="1343620800" class="btn">Jul 30 2012</a></td><td class="location"><a href="/event/id/38332">Charlotte Verizon Wireless Amphitheatre</a> <br /> Charlotte,, NC<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38333" title="1343707200" class="btn">Jul 31 2012</a></td><td class="location"><a href="/event/id/38333">Riverbend Music Center</a> <br /> Cincinnati, OH<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38334" title="1343793600" class="btn">Aug 01 2012</a></td><td class="location"><a href="/event/id/38334">Marcus Amphitheatre</a> <br /> Milwaukee, WI<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38335" title="1344052800" class="btn">Aug 04 2012</a></td><td class="location"><a href="/event/id/38335">White River Amphitheatre</a> <br /> Auburn, WA<div class="muted"></div></td></tr><tr class="event-row past "><td class="date"><a href="/event/id/38336" title="1344139200" class="btn">Aug 05 2012</a></td><td class="location"><a href="/event/id/38336">Rose Quarter Riverfront</a> <br /> Portland, OR<div class="muted"></div></td></tr>                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+		
+    </div>
+    <div class="grid_4">
+
+        <div class="mb">
+            <a href="http://vanswarpedtour.cinderblock.com/2012"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/banners/merch2012.jpg" border="0" /></a>
+        </div>
+
+        <div class="mb">
+            <script language="JavaScript" type="text/javascript">
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.vanswarpedtour"
+,ic_size    :"300x250"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.vanswarpedtour//3/ns/300x250/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.vanswarpedtour/;sz=300x250;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.vanswarpedtour/;sz=300x250;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- End IndieClick Ad Tag -->
+        </div>
+
+
+        <div class="bx2-container">
+            <div class="bx2">
+                <div class="bx2-inner">
+                    <div class="mb1">
+    <div class="sponsor-tile">
+        <a href="/sponsor/kia"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/sponsors/kia/logo-100x70_red.png" width="100" height="70" border="0" alt="" /></a>
+        <p>
+	        <a href="/sponsor/kia">Kia Motors</a>:
+	        Official Vehicle of the Vans Warped Tour.
+	    </p>
+        <img src="http://view.atdmt.com/IWC/view/396820429/direct/01/" style="display: none" />
+        <div class="clear"></div>
+    </div>
+    <div class="tr sp-driver">
+        <small>
+            <a href="/sponsor/kia">View <strong>Kia</strong>'s Sponsor Page &rarr;</a>
+        </small>
+    </div>
+</div>
+<img src="http://view.atdmt.com/IWC/view/396820430/direct/01/" style="display: none" /><div class="mb1">
+    <div class="sponsor-tile">
+        <a href="/sponsor/monster"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/sponsors/monster/logo-100x70.png" width="100" height="70" border="0" alt="Monster" /></a>
+        <p><a href="/sponsor/monster">Monster</a>: Unleash the BEAST!</p>
+        <div class="clear"></div>
+    </div>
+    <div class="tr sp-driver">
+        <small>
+            <a href="/sponsor/monster">View <strong>Monster</strong>'s Sponsor Page &rarr;</a>
+        </small>
+    </div>
+</div><div class="mb1">
+    <div class="sponsor-tile">
+        <a href="/sponsor/super-soaker"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/sponsors/super-soaker/logo-100x70.png" width="100" height="70" border="0" alt="D-Tox" /></a>
+        <p><a href="/sponsor/super-soaker">Super Soaker</a>: You WILL get soaked!</p>
+        <div class="clear"></div>
+    </div>
+    <div class="tr sp-driver">
+        <small>
+            <a href="/sponsor/super-soaker">View <strong>Super Soaker</strong>'s Sponsor Page &rarr;</a>
+        </small>
+    </div>
+</div><div class="mb1">
+    <div class="sponsor-tile">
+        <a href="/sponsor/mackr"><img src="http://ldbs.s3.amazonaws.com/sites/vwt/images/sponsors/mackr/logo-100x70.png" width="100" height="70" border="0" alt="" /></a>
+        <p>
+            <a href="/sponsor/mackr">Mackr</a>:
+            Apparel for extreme athletes with the motivation to push it to the edge.
+        </p>
+        <div class="clear"></div>
+    </div>
+    <div class="tr sp-driver">
+        <small>
+            <a href="/sponsor/mackr">View <strong>Mackr</strong>'s Sponsor Page &rarr;</a>
+        </small>
+    </div>
+</div>                </div>
+            </div>
+        </div>
+
+        <div class="mb" id="apple-iframe">
+            <iframe src="http://widgets.itunes.apple.com/itunes.html?wtype=3&app_id=null&country=us&partnerId=30&affiliate_id=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fstat%3Fid%3D9NcST*7QCZ0%26offerid%3D146261%26type%3D3%26subid%3D0%26tmpid%3D1826%26RD_PARM1%3D&wh=300&ww=300" frameborder=0 style="overflow-x:hidden;overflow-y:hidden;width:300px;height:300px;border:0px" ></iframe>
+        </div>
+
+        <div class="mb">
+            <a href="http://www.jdoqocy.com/click-5248888-10479774" target="_top"><img src="http://www.tqlkg.com/image-5248888-10479774" width="300" height="250" alt="Apple Store" border="0" /></a>        </div>
+
+
+    </div>
+    <div class="clear"></div>
+</div></div>
+        </div>
+
+    </div>
+
+
+    <div id="footer">
+        <div id="site-footer" class="cf">
+            
+
+<div style="width: 728px; margin: 0 auto 3em">
+    <!--
+  ## IndieClick Ad Tag
+  ## publisher[Warped Tour]  zone[Run of site]  size[2x2]
+  -->
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.vanswarpedtour"
+,ic_size    :"2x2"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.vanswarpedtour//8/ns/2x2/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script><noscript><a href="http://ad.doubleclick.net/jump/dmd.ind.vanswarpedtour/;sz=2x2;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/dmd.ind.vanswarpedtour/;sz=2x2;ord=123456789?" border="0" alt="" /></a></noscript>
+<!-- End IndieClick Ad Tag -->
+
+<!--
+  ## IndieClick Ad Tag
+  ## publisher[Warped Tour]  zone[Run of site]  size[728x90]
+  -->
+<script language="JavaScript" type="text/javascript">
+//<![CDATA[
+(function(){var config={
+ ic_domain  :"dmd.ind.vanswarpedtour"
+,ic_size    :"728x90"
+,ic_zone    :""
+,ic_campaign:""
+,ic_version :"2"
+};var ic_config=(typeof window.top.ic_config=="undefined")?window.top.ic_config={}:window.top.ic_config;var in_iframe=(window!=window.top)?true:false;config.iframe=(in_iframe)?true:false;config.ord=(ic_config.ord)?ic_config.ord:ic_config.ord=Math.floor(Math.random()*10000000000000000);config.tile=(ic_config.tile)?++ic_config.tile:ic_config.tile=1;for(var key in ic_config){config[key]=ic_config[key]}var key_value=[];key_value[key_value.length]="sz="+config.ic_size;key_value[key_value.length]="tile="+config.tile;key_value[key_value.length]="ver="+config.ic_version;key_value[key_value.length]="frame="+config.iframe;key_value[key_value.length]="cm="+config.ic_campaign;for(var key in config.ic_keyValue){key_value[key_value.length]=key+"="+config.ic_keyValue[key]}if(!in_iframe&&!ic_config.dcopt){ic_config.dcopt=true;key_value[key_value.length]="dcopt=ist"}document.write('<span id="ic_'+config.ord+config.tile+'"></span>');var element=document.getElementById("ic_"+config.ord+config.tile);if(ic_config.asyncInit){ic_config.asyncInit(key_value,element)}var key_value=key_value.join(";");window.ic_ad_complete=function(){if(in_iframe){window.onload=function(){var elem=document.getElementById("icAdUnit");elem.style.position="absolute";window.frameElement.style.width=elem.offsetWidth+"px";window.frameElement.style.height=elem.offsetHeight+"px";window.frameElement.style.overflow="hidden";window.frameElement.style.border="0"}}};document.write('<script language="JavaScript" src="http://ad.doubleclick.net/adj/'+config.ic_domain+"/"+config.ic_zone+";"+key_value+";ord="+config.ord+'?" type="text/javascript"><\/script>');document.write('<script type="text/javascript">window.ic_ad_complete();<\/script>')})();
+(function(){var u="dmd.ind.vanswarpedtour//5/ns/728x90/script_dfp.js";var e=document.createElement('script');e.src='http://pixel.indieclick.com/annonymous/dfp/'+u;e.type="text/javascript";var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+//]]>
+</script>
+<!-- End IndieClick Ad Tag --></div>
+
+<div class="container_12">
+    <ul class="ftn">
+        <li class="fts">
+            <strong>Tour</strong>
+            <ul>
+                <li><a href="/dates">Dates</a></li>
+                <li><a href="/bands">Bands</a></li>
+                <li><a href="/blog">Blog</a></li>
+                <li><a href="/sponsors">Sponsors</a></li>
+            </ul>
+        </li>
+        <li class="fts">
+            <strong>Media</strong>
+            <ul>
+                <li><a href="/media">Video Collection</a></li>
+                <li><a href="http://bit.ly/9GtVpj">iPhone App</a></li>
+                <li><a href="https://twitter.com/#!/VansWarpedTour">Twitter</a></li>
+                <li><a href="http://bit.ly/kdHcLO">Instagram</a></li>
+            </ul>
+        </li>
+        <li class="fts">
+            <strong>Community</strong>
+            <ul>
+                <li><a href="/register">Register</a></li>
+                <li><a href="/boards">Message Boards</a></li>
+                <li><a href="http://help.loudbase.com/customer/portal/emails/new">Account Help</a></li>
+            </ul>
+        </li>
+        <li class="fts">
+            <strong>Store</strong>
+            <ul>
+                <li><a href="http://vanswarpedtour.cinderblock.com/">Warped Store</a></li>
+                <li><a href="http://bit.ly/vwttnes">iTunes Warped Store</a></li>
+            </ul>
+        </li>
+        <li class="fts">
+            <strong>Ticket Support</strong>
+            <ul>
+                <li><a href="http://warpedtourtickets.musictoday.com/WarpedTour/Policy.aspx?type=3">Presale Ticket Support</a></li>
+                <li><a href="http://www.ticketmaster.com/h/customer_serve.html">Ticketmaster</a></li>
+                <li><a href="http://www.livenation.com/h/help.html">Live Nation</a></li>
+                <li><a href="mailto:help.warped@i6fan.com">Tour TAGS</a></li>
+            </ul>
+        </li>
+        <li class="fts">
+            <strong>Contact</strong>
+            <ul>
+                <li><a href="/info/contact">Vendor Inquiries</a></li>
+                <li><a href="/info/contact">Sponsorship Opportunities</a></li>
+                <li><a href="/info/contact">Media Inquiries</a></li>
+                <li><a href="/info/contact">Employment</a></li>
+                <li><a href="/info/contact">Delete Account</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+<div class="clear"></div>
+<div class="tc ftl">
+
+    &copy; 2012 CCRL, LLC<br />
+    <a href="/info/contact">Contact &amp; Info</a> &nbsp; &nbsp; &nbsp;
+    <a href="/info/privacy">Privacy Policy</a> &nbsp; &nbsp; &nbsp; 
+
+    <a href="/info/terms">Terms Of Use</a>
+</div>
+
+        </div>
+        <div id="lb-footer">
+                    </div>
+    </div>
+</div>
+
+
+<script>
+    $script.ready('jquery', function() {
+            });
+
+    $script.ready('tooltip', function() {
+        $('time').tooltip();
+
+        $('#network').tooltip({
+            selector: "a[rel=tooltip]",
+            animation: false
+        })
+    });
+
+
+    $script.ready('bigtarget', function() {
+        $('.sponsor-tile a').bigTarget({
+            hoverClass: 'sponsor-tile-hover',
+            clickZone : 'div:eq(0)'
+        });
+    });
+
+    var _sf_async_config={uid:2944,domain:"vanswarpedtour.com"};
+    (function(){
+        function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+           "static.chartbeat.com/js/chartbeat.js");
+        document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-34836496-1']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['a2._setAccount', 'UA-2432482-8']);
+  _gaq.push(['a2._trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+<script type="text/javascript">
+(function(){var e=document.createElement('script');e.type='text/javascript';e.async=true;e.id='ic_annonymous_pixel';
+e.src='http://pixel.indieclick.com/annonymous/domain/warpedtour.com/reach/script_ic.js';
+var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(e,s);})();
+</script>
+
+
+<!-- 10.222.194.191 -->
+
+
+</body>
+</html>
+
